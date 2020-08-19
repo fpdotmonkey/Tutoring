@@ -1,6 +1,6 @@
 LDFLAGS = -L/usr/local/lib
 
-CFLAGS = $(shell sdl2-config --cflags) -g -D__DEBUG__
+CFLAGS = -g -D__DEBUG__
 
 SOURCES=pass_by_pointer.c
 OBJECTS=$(SOURCES:.c=.o)

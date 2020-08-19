@@ -50,4 +50,4 @@ Passing by pointer is useful mostly in two cases (though there are certainly oth
 
 The other more advanced use case is pass large objects by pointer.  This lets you use a single instance of a large object for many functions.  If you had many instances of the large object, you could run out of computer memory, severely hampering the performance of your application.  You'll learn more about this application when you learn about `struct`s.
 
-If you'd like to review this topic, my notes are available at [URL] alongside the example from the beginning, which you can run.
+If you'd like to review this topic, my notes are available [here](https://github.com/fpdotmonkey/Tutoring/blob/master/pass_by_pointer/c_and_pointers.md) alongside the example from the beginning, which you can run following the instructions [here](https://github.com/fpdotmonkey/Tutoring/blob/master/pass_by_pointer/README.md).
