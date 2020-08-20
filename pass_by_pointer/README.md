@@ -1,6 +1,6 @@
 # C and Pointers
 
-The video for this is available at https://youtu.be/QJtUxpJ9bXI
+The video for this is available at https://youtu.be/zWmyqeXNJuE
 
 You can read the lecture notes [here](c_and_pointers.md)
 
